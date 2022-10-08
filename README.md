@@ -2,7 +2,7 @@
   
  I'm *Kc Alvarez Sarmiento* also known as *KC*,I'm G12 TVl-ICT CSS and Self Study about *Web development*.<br><br> 
    
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Kc+Sarmiento/Tito+Kc%2C+16+years+old;Nag+Eat+na+Ikaw?;Dae+Magpalipas+pag+eat+ha?;)](https://git.io/typing-svg) 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Kc+Sarmiento/Tito+Kc%2C+16+years+old;Nag+Eat+na+Ikaw?;Dae+magpalipas+pag+eat+ha?;)](https://git.io/typing-svg) 
   
   
  ### How to reach me:  
