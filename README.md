@@ -11,6 +11,4 @@
  [![](https://img.shields.io/badge/Gmail-alvarezkc728@gmail.com-red)](mailto:alvarezkc728@gmail.com) 
  <a href="mailto: alvarezkc728@gmail.com"> 
    
-   ### I am studying: 🛠 
-    <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> 
- -----
+ 
