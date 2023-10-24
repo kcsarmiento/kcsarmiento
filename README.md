@@ -2,7 +2,7 @@
   
  I'm *Kc Alvarez Sarmiento* also known as *Tito Idik* I'm 1st year BSIT Student.<br><br> 
    
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Kc+Sarmiento+%2C+17;miss+u+na+;kumain +kana?+pake q;)](https://git.io/typing-svg) 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Kc+Sarmiento+%2C+17;miss+u+na+;kumain+kana?+pake+q;)](https://git.io/typing-svg) 
   
   
  ### How to reach me:  
