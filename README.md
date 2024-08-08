@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, Nice to see you.</h1> 
   
- I'm *Kc Alvarez Sarmiento*, I'm 2nd year BSIT Student.<br><br> 
+ I'm *Kc Alvarez Sarmiento*, I'm a 2nd year BSIT Student.<br><br> 
    
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Kc+Sarmiento+%2C+18;18nadhanasau😋😋+;kumain+kana?;+pake+q;)](https://git.io/typing-svg) 
   
