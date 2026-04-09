@@ -37,7 +37,7 @@ I’m an IT student still learning the fundamentals of web development, but I’
 
 ## 📫 Let's Connect
 📧 **Email:** kc.sarmiento@my.jru.edu  
-💼 **Portfolio:** [https://kcsarmiento.github.io/portfolio]
+💼 **Portfolio:** https://kcsarmiento.github.io/portfolio
 
 ---
 
