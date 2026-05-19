@@ -10,7 +10,7 @@
 
 **Languages**
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,python,php,java,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,python,php,java,html,css)](https://skillicons.dev)
 
 **Frameworks & Libraries**
 
@@ -37,7 +37,7 @@
 - 🌾 **Agrimaps** — Capstone system for agricultural commodity price monitoring with SARIMA-based forecasting
 - 🔐 **DevSecOps practice** — Building secure CI/CD pipelines (SBOM with Syft, Trivy scans, pip-audit gates)
 - 🧠 **Machine Learning fundamentals** — kNN, logistic regression, time-series forecasting
-- 📂 **ePortfolio** — Wix Vibe + React/TSX showcase of coursework outputs
+- 📂 **ePortfolio** — Wix Vibe + React showcase of coursework outputs
 
 ---
 
