@@ -100,14 +100,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kcsarmiento&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kc's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kcsarmiento&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&rank_icon=github" alt="Kc's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcsarmiento&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kcsarmiento&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcsarmiento&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&langs_count=8" alt="Top Langs" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=kcsarmiento&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 ---
 
 ## 📫 Let's Connect
