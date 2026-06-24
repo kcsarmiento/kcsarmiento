@@ -18,8 +18,6 @@
 ### About Me
 
 🎓 **4th Year BSIT Student** @ Jose Rizal University
-🌾 Currently building **Agrimaps** — a web-based agricultural price monitoring & forecasting system (capstone)
-🔐 Exploring **secure development, machine learning, and real-world system building**
 
 ---
 
@@ -76,24 +74,6 @@
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="48" height="48"/></a>&nbsp;
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="48" height="48"/></a>
 </p>
-
----
-
-## 🚀 What I'm Working On
-
-- 🌾 **Agrimaps** — Capstone system for agricultural commodity price monitoring with SARIMA-based forecasting
-- 🔐 **DevSecOps practice** — Building secure CI/CD pipelines (SBOM with Syft, Trivy scans, pip-audit gates)
-- 🧠 **Machine Learning fundamentals** — kNN, logistic regression, time-series forecasting
-- 📂 **ePortfolio** — Wix Vibe + React showcase of coursework outputs
-
----
-
-## 🌱 Currently Learning
-
-- Time-series forecasting (SARIMA, ARIMA) for real-world deployment
-- Container orchestration and deployment pipelines
-- Ethical hacking & penetration testing fundamentals
-- Production-grade API design and system integration patterns
 
 ---
 
